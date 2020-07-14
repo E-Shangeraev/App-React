@@ -4,7 +4,7 @@ const Profile = () => {
     return (
     <div className="profile">
         <div>
-          <img src="https://www.w3schools.com/howto/img_snow_wide.jpg"></img>
+          <img src="https://www.w3schools.com/howto/img_snow_wide.jpg" alt="sad"/>
         </div>
         <div>
           ava + decription
