@@ -5,12 +5,10 @@ import MyPosts from './MyPosts/MyPosts';
 const Profile = () => {
     return (
     <div className={classes.profile}>
-        <div>
+        <p>
           <img src="https://www.w3schools.com/howto/img_snow_wide.jpg" alt="sad"/>
-        </div>
-        <div>
-          ava + decription
-        </div>
+        </p>
+        <p>ava + decription</p>
         <MyPosts />
     </div>
     )
