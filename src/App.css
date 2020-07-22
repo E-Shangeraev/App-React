@@ -11,7 +11,10 @@
   margin: 0 auto;
 }
 
-
+.app-wrapper-content {
+  grid-area: c;
+  background-color: #3782E0;
+}
 
 
 
